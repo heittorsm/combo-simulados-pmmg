@@ -1,9 +1,4 @@
 {
-  "public": ".",
-  "rewrites": [
-    {
-      "source": "/",
-      "destination": "/combo-simulados-pmmg.html"
-    }
-  ]
+  "buildCommand": "echo 'static build'",
+  "outputDirectory": "."
 }
